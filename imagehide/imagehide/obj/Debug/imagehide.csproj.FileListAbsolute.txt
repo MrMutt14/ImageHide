@@ -1,0 +1,8 @@
+c:\users\m1406_000\documents\visual studio 2015\Projects\imagehide\imagehide\bin\Debug\imagehide.exe
+c:\users\m1406_000\documents\visual studio 2015\Projects\imagehide\imagehide\bin\Debug\imagehide.pdb
+c:\users\m1406_000\documents\visual studio 2015\Projects\imagehide\imagehide\obj\Debug\imagehide.csprojResolveAssemblyReference.cache
+c:\users\m1406_000\documents\visual studio 2015\Projects\imagehide\imagehide\obj\Debug\imagehide.Properties.Resources.resources
+c:\users\m1406_000\documents\visual studio 2015\Projects\imagehide\imagehide\obj\Debug\imagehide.csproj.GenerateResource.Cache
+c:\users\m1406_000\documents\visual studio 2015\Projects\imagehide\imagehide\obj\Debug\imagehide.exe
+c:\users\m1406_000\documents\visual studio 2015\Projects\imagehide\imagehide\obj\Debug\imagehide.pdb
+c:\users\m1406_000\documents\visual studio 2015\Projects\imagehide\imagehide\obj\Debug\imagehide.Form1.resources
