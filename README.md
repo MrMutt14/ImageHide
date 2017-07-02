@@ -1,7 +1,9 @@
 # ImageHide
 Encrypts and saves text as a bitmap and reverse. Good for hiding text:P
 Made by FORC3FI3LD
+
 Donate:
+
 Paypal: Fuck paypal
 
 Bitcoin: 1HbG9fVSGe6eANzACN88ZCiTDBu5T3dPJk
